@@ -235,6 +235,10 @@ body {
 
 .items li img{
     width: 100%;
+
+    -webkit-transition: all 0.2s linear, 1s;
+    -moz-transition: all 0.2s linear, 1s;
+    -o-transition: all 0.2s linear, 1s;
 }
 
 .items .item{
@@ -272,6 +276,10 @@ body {
     background-color: #e74c3c;
     position: relative;
     display: inline-block;
+
+    -webkit-transition: all 0.2s linear, 1s;
+    -moz-transition: all 0.2s linear, 1s;
+    -o-transition: all 0.2s linear, 1s;
 }
 
 .items .imageOverlay{
@@ -292,4 +300,84 @@ body {
 
 .items .item:hover .imageOverlay{
     opacity: 1;
+}
+
+.items .openButton{
+    float: left;
+    left:-200px;
+}
+
+.items .projectLink{
+    float: right;
+    right: -200px;
+}
+
+.items .item:hover .openButton{
+    left: 0px;
+}
+
+.items .item:hover .projectLink{
+    right: 0px;
+}
+
+.items .item:hover img{
+    -webkit-transform: scale(1.05,1.05);
+    -moz-transform: scale(1.05,1.05);
+    -o-transform: scale(1.05,1.05);
+}
+
+.copyrightSection{
+    background-color: #000;
+    color: #fff;
+    padding: 30px 5px;
+}
+
+.copyrightSection p{
+    margin: 0;
+}
+
+#navigation{
+    background-color: #e74c3c;
+    padding: 20px 10px;
+    z-index: 100;
+    width: 100%;
+}
+
+#navigation li{
+    padding: 0 10px;
+}
+
+#navigation li a{
+    color: #fff;
+}
+
+.navbar-brand,
+.navbar-brand:hover{
+    color: #fff;
+}
+
+.navbar-toggler-icon{
+    background: url(../img/icons8-menu-filled-50.png) !important;
+    background-size: 100% !important;
+}
+
+.fixedNav #navigation{
+    position: fixed;
+    top: 0;
+}
+
+.loader{
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    position: fixed;
+    top:0;
+    left: 0;
+    z-index: 1000;
+}
+
+.loader .inner{
+    width: 100%;
+    height: 100%;
+    background: url(../img/loader.gif) center center no-repeat;
 }
