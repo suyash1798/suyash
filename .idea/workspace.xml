@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09c7e32c-4cd7-4b09-bdf1-47d3b7dea641" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/icons8-menu-filled-50.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/loader.gif" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
     </list>
@@ -21,22 +17,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
-              <caret line="354" column="6" lean-forward="true" selection-start-line="354" selection-start-column="6" selection-end-line="354" selection-end-column="6" />
+            <state relative-caret-position="-1">
+              <caret line="304" column="150" lean-forward="false" selection-start-line="304" selection-start-column="150" selection-end-line="304" selection-end-column="150" />
               <folding>
-                <element signature="e#15005#15011#0" expanded="true" />
-                <marker date="1543137903212" expanded="true" signature="1018:8350" ph="..." />
+                <element signature="n#src#0;n#img#0;n#div#0;n#li#4;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#19590#19596#0" expanded="true" />
+                <marker date="1543305812381" expanded="true" signature="1018:8354" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="apple-black-and-white-black-and-white-169573 (1).jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/apple-black-and-white-black-and-white-169573 (1).jpg">
+      <file leaf-file-name="vaetas.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/thumbnails/vaetas.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -71,7 +68,7 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
+            <state relative-caret-position="6477">
               <caret line="381" column="62" lean-forward="false" selection-start-line="381" selection-start-column="62" selection-end-line="381" selection-end-column="62" />
               <folding />
             </state>
@@ -81,10 +78,10 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="108" column="4" lean-forward="true" selection-start-line="108" selection-start-column="7" selection-end-line="114" selection-end-column="10" />
+            <state relative-caret-position="1139">
+              <caret line="85" column="22" lean-forward="false" selection-start-line="85" selection-start-column="22" selection-end-line="85" selection-end-column="22" />
               <folding>
-                <marker date="1543136913885" expanded="true" signature="2298:2502" ph="..." />
+                <marker date="1543305605741" expanded="true" signature="2355:2559" ph="..." />
               </folding>
             </state>
           </provider>
@@ -93,7 +90,7 @@
       <file leaf-file-name="lib.dom.d.ts" pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
+            <state relative-caret-position="78676">
               <caret line="4641" column="14" lean-forward="false" selection-start-line="4641" selection-start-column="14" selection-end-line="4641" selection-end-column="47" />
               <folding />
             </state>
@@ -113,7 +110,7 @@
       <file leaf-file-name="owl.carousel.min.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/owl.carousel.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
+            <state relative-caret-position="442">
               <caret line="5" column="21374" lean-forward="false" selection-start-line="5" selection-start-column="21374" selection-end-line="5" selection-end-column="21374" />
               <folding>
                 <marker date="1543078801620" expanded="true" signature="37351:37359" ph="..." />
@@ -138,8 +135,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.ts" />
-        <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -192,6 +189,12 @@
             <path>
               <item name="SUYASH_PORTFOLIO" type="b2602c69:ProjectViewProjectNode" />
               <item name="SUYASH_PORTFOLIO" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="thumbnails" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SUYASH_PORTFOLIO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SUYASH_PORTFOLIO" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -209,13 +212,13 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\SUYASH_PORTFOLIO\img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\SUYASH_PORTFOLIO\img" />
       <recent name="E:\SUYASH_PORTFOLIO\js" />
       <recent name="E:\SUYASH_PORTFOLIO\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\SUYASH_PORTFOLIO\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -243,34 +246,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542966070182</updated>
-      <workItem from="1542966075431" duration="44002000" />
+      <workItem from="1542966075431" duration="44180000" />
+      <workItem from="1543297625584" duration="5201000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44002000" />
+    <option name="totallyTimeSpent" value="49381000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
-    <editor active="true" />
     <layout>
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15519765" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17349927" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -289,42 +292,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/icons8-next-page-50.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/pexels-photo-270348.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/IMG_0790.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/owl.carousel.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="5" column="21374" lean-forward="false" selection-start-line="5" selection-start-column="21374" selection-end-line="5" selection-end-column="21374" />
-          <folding>
-            <marker date="1543078801620" expanded="true" signature="37351:37359" ph="..." />
-            <marker date="1543078801620" expanded="true" signature="37393:37401" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_portfolio-owlCarousel.zip/portfolio/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/apple-black-and-white-black-and-white-169573 (1).jpg">
@@ -342,39 +315,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="4641" column="14" lean-forward="false" selection-start-line="4641" selection-start-column="14" selection-end-line="4641" selection-end-column="47" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/img/IMG_0790.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="108" column="4" lean-forward="true" selection-start-line="108" selection-start-column="7" selection-end-line="114" selection-end-column="10" />
-          <folding>
-            <marker date="1543136913885" expanded="true" signature="2298:2502" ph="..." />
-          </folding>
-        </state>
+    <entry file="file://$PROJECT_DIR$/img/pexels-photo-270348.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
+        <state relative-caret-position="6477">
           <caret line="381" column="62" lean-forward="false" selection-start-line="381" selection-start-column="62" selection-end-line="381" selection-end-column="62" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78676">
+          <caret line="4641" column="14" lean-forward="false" selection-start-line="4641" selection-start-column="14" selection-end-line="4641" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_portfolio-owlCarousel.zip/portfolio/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/owl.carousel.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="5" column="21374" lean-forward="false" selection-start-line="5" selection-start-column="21374" selection-end-line="5" selection-end-column="21374" />
+          <folding>
+            <marker date="1543078801620" expanded="true" signature="37351:37359" ph="..." />
+            <marker date="1543078801620" expanded="true" signature="37393:37401" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/thumbnails/vaetas.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="85" column="22" lean-forward="false" selection-start-line="85" selection-start-column="22" selection-end-line="85" selection-end-column="22" />
+          <folding>
+            <marker date="1543305605741" expanded="true" signature="2355:2559" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="354" column="6" lean-forward="true" selection-start-line="354" selection-start-column="6" selection-end-line="354" selection-end-column="6" />
+        <state relative-caret-position="-1">
+          <caret line="304" column="150" lean-forward="false" selection-start-line="304" selection-start-column="150" selection-end-line="304" selection-end-column="150" />
           <folding>
-            <element signature="e#15005#15011#0" expanded="true" />
-            <marker date="1543137903212" expanded="true" signature="1018:8350" ph="..." />
+            <element signature="n#src#0;n#img#0;n#div#0;n#li#4;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#19590#19596#0" expanded="true" />
+            <marker date="1543305812381" expanded="true" signature="1018:8354" ph="..." />
           </folding>
         </state>
       </provider>

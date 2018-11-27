@@ -82,7 +82,9 @@ $(document).ready(function () {
     $("[data-fancybox]").fancybox();
 
 
-
+    $('.items').isotope({
+        filter: ".apps"
+    });
 
     $('.ac').click(function (){
 
