@@ -382,3 +382,7 @@ body {
     height: 100%;
     background: url(../img/loader.gif) center center no-repeat;
 }
+
+div .item{
+    width: 303px !important;
+}
