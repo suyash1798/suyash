@@ -383,6 +383,6 @@ body {
     background: url(../img/loader.gif) center center no-repeat;
 }
 
-div .item{
+.items li{
     width: 303px !important;
 }
