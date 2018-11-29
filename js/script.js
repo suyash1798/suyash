@@ -10,7 +10,8 @@ $(window).on("load",function () {
            easing:'linear',
            queue:false
        }
-   })
+   });
+    $('.apps').addClass("current");
 });
 
 $(document).ready(function () {
